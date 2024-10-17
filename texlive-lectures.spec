@@ -3,7 +3,7 @@ Version:	53642
 Release:	2
 Summary:	A document class for quickly drafting nice looking lecture notes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lectures
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lectures
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lectures.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lectures.doc.r%{version}.tar.xz
